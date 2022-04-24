@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radwaahmed2132000&label=Profile%20views&color=0e75b6&style=flat" alt="radwaahmed2132000" /> </p>
 <p align="center"> <img alt="Coder GIF"  height=50% width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  /></p>
 <h3 >About me</h3>
-<p>I student at Cairo University , Faculty of engineering ,computer Engineering, I am problem solver , I am interested in ML , DL, CV and BE.
-</p>
 
+ -  Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+ - I am interested in ML , DL, CV and BE.
 
 - 🌱 I’m currently learning **Magento backend framewrok and ML**
 
