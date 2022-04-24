@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Radwa Ahmed</h1>
-<h3 align="center">Student at Cairo University , Faculty of Engineering , Computer Engineering</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radwaahmed2132000&label=Profile%20views&color=0e75b6&style=flat" alt="radwaahmed2132000" /> </p>
+<p align="center"> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  /></p>
+<h3 >About me</h3>
+<p>I student at Cairo University , Faculty of engineering ,computer Engineering, I am problem solver , I am interested in ML , DL, CV and BE.
+</p>
+
 
 - 🌱 I’m currently learning **Magento backend framewrok and ML**
 
