@@ -6,7 +6,7 @@
  -  Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
  - I am interested in ML , DL, CV and BE.
 
-- 🌱 I’m currently learning *Testing and ML**
+- 🌱 I’m currently learning **Testing and ML**
 
 - 📫 How to reach me **radwa.kaml00@eng-st.cu.edu.eg**
 
