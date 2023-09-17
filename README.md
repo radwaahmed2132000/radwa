@@ -3,12 +3,11 @@
 <p align="center"> <img alt="Coder GIF"  height=50% width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  /></p>
 <h3 >About me</h3>
 
- -  Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+ -  Fresh Gradute from Cairo University , Computer Engineering  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
  - I am interested in ML , DL, CV and BE.
-
-- 🌱 I’m currently learning **Testing and ML**
-
-- 📫 How to reach me **radwa.kaml00@eng-st.cu.edu.eg**
+ -  I am working as Machine Learning Engineer
+ - 🌱 I’m currently learning **Testing and ML**
+ - 📫 How to reach me **radwa.kaml00@eng-st.cu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
